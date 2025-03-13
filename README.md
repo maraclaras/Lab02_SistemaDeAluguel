@@ -10,7 +10,7 @@ Este repositório contém o trabalho em grupo realizado para a disciplina "Labor
 - João Paulo Carneiro Aramuni
 
 # Casos de Uso
-  <img src="" alt="Casos de Uso">
+  <img src="https://github.com/maraclaras/Lab02_SistemaDeAluguel/blob/main/Documentos/Sistema%20de%20Aluguel.png" alt="Casos de Uso">
   
 # Histórias de Usuário
 - Como cliente, quero me cadastrar no sistema para poder acessar a plataforma de aluguel de automóveis.
@@ -23,7 +23,7 @@ Este repositório contém o trabalho em grupo realizado para a disciplina "Labor
 - Como agente, quero aprovar ou rejeitar pedidos de aluguel para dar continuidade ou encerrar o processo de contrato.
 
 # Diagrama de Classes
-  <img src="" alt="Diagrama de Classes">
+  <img src="https://github.com/maraclaras/Lab02_SistemaDeAluguel/blob/main/Documentos/Class%20Diagram.png" alt="Diagrama de Classes">
 
 # Diagrama de Pacotes
-  <img src="" alt="Diagrama de Pacotes">
+  <img src="https://github.com/maraclaras/Lab02_SistemaDeAluguel/blob/main/Documentos/Pacotes.png" alt="Diagrama de Pacotes">
