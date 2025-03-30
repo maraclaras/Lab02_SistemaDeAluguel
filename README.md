@@ -27,3 +27,6 @@ Este repositório contém o trabalho em grupo realizado para a disciplina "Labor
 
 # Diagrama de Pacotes
   <img src="https://github.com/maraclaras/Lab02_SistemaDeAluguel/blob/main/Documentos/Pacotes.png" alt="Diagrama de Pacotes">
+
+# Diagrama de Implantação
+  <img src="https://github.com/maraclaras/Lab02_SistemaDeAluguel/blob/main/Documentos/DiagramaDeImplantacao.png" alt="Diagrama de Pacotes">
